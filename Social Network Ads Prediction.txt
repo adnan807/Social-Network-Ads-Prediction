@@ -1,0 +1,6 @@
+Project Name: Social Network Ads Prediction
+Short Description: We train our model & use KNN to predict whether customers purchase products or not according to their age & salary
+Language: Python 
+Library : pandas,numpy,matplot,sklearn
+Level: Beginner
+Algorithm:  K-Nearest Neighbour(KNN)
